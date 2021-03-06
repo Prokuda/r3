@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://book-shop-news.vercel.app"
+baseURL = "https://r3-ochre.vercel.app"
 languageCode = "en-us"
 title = "The Man in the Glass House"
 theme = "influencer-hugo"
